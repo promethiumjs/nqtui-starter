@@ -16,6 +16,6 @@
     "vite": "^2.6.13"
   },
   "dependencies": {
-    "nqtui": "^0.3.1"
+    "nqtui": "^0.4.0"
   }
 }
